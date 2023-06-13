@@ -2,6 +2,8 @@
 
 # Hello, world!
 
+I am a Frontend developer.
+
 ## Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-002206?style=plastic&logo=html5)
@@ -14,6 +16,6 @@
 
 ## Contacts
 
-[![E-mail](https://img.shields.io/badge/-E‒mail-002206?style=plastic‒=gmail)](mailto:tsivilevkonstantin@gmail.com)
+[![E-mail](https://img.shields.io/badge/-E‒mail-002206?style=plastic&logo=gmail)](mailto:tsivilevkonstantin@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-002206?style=plastic&logo=telegram)](https://telegram.me/lasterius)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-002206?style=plastic&logo=linkedin)](https://www.linkedin.com/in/tsivilev-konstantin/)

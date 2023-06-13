@@ -1,3 +1,3 @@
-![Header](https://github.com/Lasterius/Lasterius/blob/main/assets/tsivilev%20konstantin.png)
+![Header](https://github.com/Lasterius/Lasterius/blob/main/assets/header.png)
 
 # Hello, world!

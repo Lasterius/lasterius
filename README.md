@@ -1,4 +1,4 @@
-![Header](https://github.com/Lasterius/Lasterius/blob/main/assets/header.png)
+![Header](https://github.com/Lasterius/Lasterius/blob/main/header.png)
 
 # Hello, world!
 

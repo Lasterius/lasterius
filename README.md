@@ -2,7 +2,7 @@
 
 # Hello, world!
 
-I am a Frontend developer.
+I am a result-oriented frontend developer with over 3 years of experience. My confidence and proactiveness manifest in the ability to independently solve technical challenges while maintaining a high standard of quality.
 
 ## Skills
 
@@ -30,6 +30,6 @@ I am a Frontend developer.
 
 ## Contacts
 
-[![E-mail](https://img.shields.io/badge/-E‒mail-002206?style=plastic&logo=gmail)](mailto:tsivilevkonstantin@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-002206?style=plastic&logo=telegram)](https://telegram.me/lasterius)
+[![E-mail](https://img.shields.io/badge/-E‒mail-002206?style=plastic&logo=gmail)](mailto:tsivilev.dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-002206?style=plastic&logo=telegram)](https://telegram.me/tsivilev_dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-002206?style=plastic&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/tsivilev-konstantin/)

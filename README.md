@@ -2,7 +2,7 @@
 
 # Hello, world!
 
-I am a result-oriented frontend developer with over 3 years of experience. My confidence and proactiveness manifest in the ability to independently solve technical challenges while maintaining a high standard of quality.
+I am a result-oriented frontend developer. My confidence and proactiveness manifest in the ability to independently solve technical challenges while maintaining a high standard of quality.
 
 ## Skills
 
